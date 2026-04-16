@@ -1,0 +1,468 @@
+{"frame_name": "frame_000000.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000001.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000002.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000003.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000004.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000005.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000006.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000007.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000008.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000009.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000010.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000011.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000012.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000013.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000014.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000015.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000016.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000017.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000018.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000019.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000020.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000021.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000022.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000023.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000024.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000025.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000026.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000027.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000028.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000029.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000030.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000031.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000032.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000033.jpg", "detected_undefined_objects": [{"object_id": 3, "reference_name": "Referans_Nesne_04.JPG", "variant_name": "blur_light", "top_left_x": 320, "top_left_y": 180, "bottom_right_x": 640, "bottom_right_y": 360, "coarse_score": 0.25374794006347656, "coarse_margin": 0.01300455629825592, "fine_score": 0.2175108790397644, "fine_margin": 0.2175108790397644, "orb_good_matches": 21}]}
+{"frame_name": "frame_000034.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000035.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000036.jpg", "detected_undefined_objects": [{"object_id": 4, "reference_name": "Referans_Nesne_05.jpg", "variant_name": "zoom_in", "top_left_x": 320, "top_left_y": 0, "bottom_right_x": 640, "bottom_right_y": 180, "coarse_score": 0.2144881635904312, "coarse_margin": 0.028392046689987183, "fine_score": 0.1810847371816635, "fine_margin": 0.1810847371816635, "orb_good_matches": 9}]}
+{"frame_name": "frame_000037.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000038.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000039.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000040.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000041.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000042.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000043.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000044.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000045.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000046.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000047.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000048.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000049.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000050.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000051.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000052.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000053.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000054.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000055.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000056.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000057.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000058.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000059.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000060.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000061.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000062.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000063.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000064.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000065.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000066.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000067.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000068.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000069.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000070.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000071.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000072.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000073.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000074.jpg", "detected_undefined_objects": [{"object_id": 4, "reference_name": "Referans_Nesne_05.jpg", "variant_name": "zoom_in", "top_left_x": 0, "top_left_y": 0, "bottom_right_x": 320, "bottom_right_y": 180, "coarse_score": 0.1874384880065918, "coarse_margin": 0.012792706489562988, "fine_score": 0.19346770644187927, "fine_margin": 0.19346770644187927, "orb_good_matches": 8}]}
+{"frame_name": "frame_000075.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000076.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000077.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000078.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000079.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000080.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000081.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000082.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000083.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000084.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000085.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000086.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000087.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000088.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000089.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000090.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000091.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000092.jpg", "detected_undefined_objects": [{"object_id": 4, "reference_name": "Referans_Nesne_05.jpg", "variant_name": "zoom_in", "top_left_x": 640, "top_left_y": 0, "bottom_right_x": 960, "bottom_right_y": 180, "coarse_score": 0.20631833374500275, "coarse_margin": 0.017805173993110657, "fine_score": 0.1910150945186615, "fine_margin": 0.1910150945186615, "orb_good_matches": 11}]}
+{"frame_name": "frame_000093.jpg", "detected_undefined_objects": [{"object_id": 2, "reference_name": "Referans_Nesne_03.JPG", "variant_name": "zoom_in", "top_left_x": 640, "top_left_y": 0, "bottom_right_x": 960, "bottom_right_y": 180, "coarse_score": 0.24146339297294617, "coarse_margin": 0.06579829752445221, "fine_score": 0.18649590015411377, "fine_margin": 0.18649590015411377, "orb_good_matches": 10}, {"object_id": 4, "reference_name": "Referans_Nesne_05.jpg", "variant_name": "zoom_in", "top_left_x": 640, "top_left_y": 0, "bottom_right_x": 960, "bottom_right_y": 180, "coarse_score": 0.2174905240535736, "coarse_margin": 0.02455243468284607, "fine_score": 0.1793007254600525, "fine_margin": 0.1793007254600525, "orb_good_matches": 18}]}
+{"frame_name": "frame_000094.jpg", "detected_undefined_objects": [{"object_id": 2, "reference_name": "Referans_Nesne_03.JPG", "variant_name": "zoom_in", "top_left_x": 640, "top_left_y": 0, "bottom_right_x": 960, "bottom_right_y": 180, "coarse_score": 0.23370391130447388, "coarse_margin": 0.043416693806648254, "fine_score": 0.19740647077560425, "fine_margin": 0.19740647077560425, "orb_good_matches": 10}, {"object_id": 4, "reference_name": "Referans_Nesne_05.jpg", "variant_name": "zoom_in", "top_left_x": 640, "top_left_y": 0, "bottom_right_x": 960, "bottom_right_y": 180, "coarse_score": 0.1938336044549942, "coarse_margin": 0.022529900074005127, "fine_score": 0.16835635900497437, "fine_margin": 0.16835635900497437, "orb_good_matches": 17}]}
+{"frame_name": "frame_000095.jpg", "detected_undefined_objects": [{"object_id": 2, "reference_name": "Referans_Nesne_03.JPG", "variant_name": "zoom_in", "top_left_x": 640, "top_left_y": 0, "bottom_right_x": 960, "bottom_right_y": 180, "coarse_score": 0.28097131848335266, "coarse_margin": 0.06459306180477142, "fine_score": 0.20285995304584503, "fine_margin": 0.20285995304584503, "orb_good_matches": 12}, {"object_id": 4, "reference_name": "Referans_Nesne_05.jpg", "variant_name": "zoom_in", "top_left_x": 640, "top_left_y": 0, "bottom_right_x": 960, "bottom_right_y": 180, "coarse_score": 0.1997005045413971, "coarse_margin": 0.019442155957221985, "fine_score": 0.17089396715164185, "fine_margin": 0.17089396715164185, "orb_good_matches": 17}]}
+{"frame_name": "frame_000096.jpg", "detected_undefined_objects": [{"object_id": 2, "reference_name": "Referans_Nesne_03.JPG", "variant_name": "zoom_in", "top_left_x": 640, "top_left_y": 0, "bottom_right_x": 960, "bottom_right_y": 180, "coarse_score": 0.2459566295146942, "coarse_margin": 0.055390313267707825, "fine_score": 0.20385746657848358, "fine_margin": 0.20385746657848358, "orb_good_matches": 8}]}
+{"frame_name": "frame_000097.jpg", "detected_undefined_objects": [{"object_id": 2, "reference_name": "Referans_Nesne_03.JPG", "variant_name": "zoom_in", "top_left_x": 640, "top_left_y": 0, "bottom_right_x": 960, "bottom_right_y": 180, "coarse_score": 0.2566887438297272, "coarse_margin": 0.05203315615653992, "fine_score": 0.2201027274131775, "fine_margin": 0.2201027274131775, "orb_good_matches": 10}]}
+{"frame_name": "frame_000098.jpg", "detected_undefined_objects": [{"object_id": 4, "reference_name": "Referans_Nesne_05.jpg", "variant_name": "zoom_in", "top_left_x": 640, "top_left_y": 180, "bottom_right_x": 960, "bottom_right_y": 360, "coarse_score": 0.21753492951393127, "coarse_margin": 0.02686692774295807, "fine_score": 0.18693719804286957, "fine_margin": 0.18693719804286957, "orb_good_matches": 9}, {"object_id": 5, "reference_name": "Referans_Nesne_06.jpg", "variant_name": "center_crop", "top_left_x": 640, "top_left_y": 0, "bottom_right_x": 960, "bottom_right_y": 180, "coarse_score": 0.307166188955307, "coarse_margin": 0.012485325336456299, "fine_score": 0.22880089282989502, "fine_margin": 0.22880089282989502, "orb_good_matches": 8}]}
+{"frame_name": "frame_000099.jpg", "detected_undefined_objects": [{"object_id": 4, "reference_name": "Referans_Nesne_05.jpg", "variant_name": "zoom_in", "top_left_x": 640, "top_left_y": 180, "bottom_right_x": 960, "bottom_right_y": 360, "coarse_score": 0.2096252292394638, "coarse_margin": 0.03063511848449707, "fine_score": 0.17665065824985504, "fine_margin": 0.17665065824985504, "orb_good_matches": 9}]}
+{"frame_name": "frame_000100.jpg", "detected_undefined_objects": [{"object_id": 5, "reference_name": "Referans_Nesne_06.jpg", "variant_name": "center_crop", "top_left_x": 640, "top_left_y": 0, "bottom_right_x": 960, "bottom_right_y": 180, "coarse_score": 0.3148502707481384, "coarse_margin": 0.012935668230056763, "fine_score": 0.23606528341770172, "fine_margin": 0.23606528341770172, "orb_good_matches": 8}]}
+{"frame_name": "frame_000101.jpg", "detected_undefined_objects": [{"object_id": 4, "reference_name": "Referans_Nesne_05.jpg", "variant_name": "zoom_in", "top_left_x": 640, "top_left_y": 180, "bottom_right_x": 960, "bottom_right_y": 360, "coarse_score": 0.200858935713768, "coarse_margin": 0.02390226721763611, "fine_score": 0.1832795888185501, "fine_margin": 0.1832795888185501, "orb_good_matches": 17}]}
+{"frame_name": "frame_000102.jpg", "detected_undefined_objects": [{"object_id": 4, "reference_name": "Referans_Nesne_05.jpg", "variant_name": "zoom_in", "top_left_x": 640, "top_left_y": 180, "bottom_right_x": 960, "bottom_right_y": 360, "coarse_score": 0.20261721312999725, "coarse_margin": 0.01150861382484436, "fine_score": 0.16994225978851318, "fine_margin": 0.16994225978851318, "orb_good_matches": 14}]}
+{"frame_name": "frame_000103.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000104.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000105.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000106.jpg", "detected_undefined_objects": [{"object_id": 4, "reference_name": "Referans_Nesne_05.jpg", "variant_name": "zoom_in", "top_left_x": 640, "top_left_y": 360, "bottom_right_x": 960, "bottom_right_y": 540, "coarse_score": 0.22371873259544373, "coarse_margin": 0.04079750180244446, "fine_score": 0.16728870570659637, "fine_margin": 0.16728870570659637, "orb_good_matches": 10}]}
+{"frame_name": "frame_000107.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000108.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000109.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000110.jpg", "detected_undefined_objects": [{"object_id": 5, "reference_name": "Referans_Nesne_06.jpg", "variant_name": "center_crop", "top_left_x": 320, "top_left_y": 0, "bottom_right_x": 640, "bottom_right_y": 180, "coarse_score": 0.3268737196922302, "coarse_margin": 0.01750814914703369, "fine_score": 0.23069465160369873, "fine_margin": 0.23069465160369873, "orb_good_matches": 8}]}
+{"frame_name": "frame_000111.jpg", "detected_undefined_objects": [{"object_id": 5, "reference_name": "Referans_Nesne_06.jpg", "variant_name": "center_crop", "top_left_x": 320, "top_left_y": 0, "bottom_right_x": 640, "bottom_right_y": 180, "coarse_score": 0.30411675572395325, "coarse_margin": 0.016854703426361084, "fine_score": 0.2862250804901123, "fine_margin": 0.2862250804901123, "orb_good_matches": 9}]}
+{"frame_name": "frame_000112.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000113.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000114.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000115.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000116.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000117.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000118.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000119.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000120.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000121.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000122.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000123.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000124.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000125.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000126.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000127.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000128.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000129.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000130.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000131.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000132.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000133.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000134.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000135.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000136.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000137.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000138.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000139.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000140.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000141.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000142.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000143.jpg", "detected_undefined_objects": [{"object_id": 3, "reference_name": "Referans_Nesne_04.JPG", "variant_name": "blur_light", "top_left_x": 0, "top_left_y": 180, "bottom_right_x": 320, "bottom_right_y": 360, "coarse_score": 0.261096715927124, "coarse_margin": 0.010007202625274658, "fine_score": 0.2941291332244873, "fine_margin": 0.2941291332244873, "orb_good_matches": 13}]}
+{"frame_name": "frame_000144.jpg", "detected_undefined_objects": [{"object_id": 3, "reference_name": "Referans_Nesne_04.JPG", "variant_name": "blur_light", "top_left_x": 0, "top_left_y": 180, "bottom_right_x": 320, "bottom_right_y": 360, "coarse_score": 0.2749159038066864, "coarse_margin": 0.010008931159973145, "fine_score": 0.2908809781074524, "fine_margin": 0.2908809781074524, "orb_good_matches": 11}]}
+{"frame_name": "frame_000145.jpg", "detected_undefined_objects": [{"object_id": 3, "reference_name": "Referans_Nesne_04.JPG", "variant_name": "blur_light", "top_left_x": 0, "top_left_y": 180, "bottom_right_x": 320, "bottom_right_y": 360, "coarse_score": 0.3282375931739807, "coarse_margin": 0.019365549087524414, "fine_score": 0.25907641649246216, "fine_margin": 0.25907641649246216, "orb_good_matches": 11}]}
+{"frame_name": "frame_000146.jpg", "detected_undefined_objects": [{"object_id": 2, "reference_name": "Referans_Nesne_03.JPG", "variant_name": "zoom_in", "top_left_x": 0, "top_left_y": 180, "bottom_right_x": 320, "bottom_right_y": 360, "coarse_score": 0.19610996544361115, "coarse_margin": 0.03581209480762482, "fine_score": 0.16744160652160645, "fine_margin": 0.16744160652160645, "orb_good_matches": 9}, {"object_id": 3, "reference_name": "Referans_Nesne_04.JPG", "variant_name": "blur_light", "top_left_x": 0, "top_left_y": 180, "bottom_right_x": 320, "bottom_right_y": 360, "coarse_score": 0.2938603460788727, "coarse_margin": 0.010004609823226929, "fine_score": 0.282502144575119, "fine_margin": 0.282502144575119, "orb_good_matches": 10}]}
+{"frame_name": "frame_000147.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000148.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000149.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000150.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000151.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000152.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000153.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000154.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000155.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000156.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000157.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000158.jpg", "detected_undefined_objects": [{"object_id": 4, "reference_name": "Referans_Nesne_05.jpg", "variant_name": "zoom_in", "top_left_x": 0, "top_left_y": 0, "bottom_right_x": 320, "bottom_right_y": 180, "coarse_score": 0.2195107340812683, "coarse_margin": 0.02488856017589569, "fine_score": 0.18967866897583008, "fine_margin": 0.18967866897583008, "orb_good_matches": 13}]}
+{"frame_name": "frame_000159.jpg", "detected_undefined_objects": [{"object_id": 4, "reference_name": "Referans_Nesne_05.jpg", "variant_name": "zoom_in", "top_left_x": 0, "top_left_y": 0, "bottom_right_x": 320, "bottom_right_y": 180, "coarse_score": 0.22538210451602936, "coarse_margin": 0.01822921633720398, "fine_score": 0.21257397532463074, "fine_margin": 0.21257397532463074, "orb_good_matches": 10}]}
+{"frame_name": "frame_000160.jpg", "detected_undefined_objects": [{"object_id": 2, "reference_name": "Referans_Nesne_03.JPG", "variant_name": "zoom_in", "top_left_x": 0, "top_left_y": 0, "bottom_right_x": 320, "bottom_right_y": 180, "coarse_score": 0.24209460616111755, "coarse_margin": 0.051563724875450134, "fine_score": 0.2086741030216217, "fine_margin": 0.2086741030216217, "orb_good_matches": 8}, {"object_id": 4, "reference_name": "Referans_Nesne_05.jpg", "variant_name": "zoom_in", "top_left_x": 0, "top_left_y": 0, "bottom_right_x": 320, "bottom_right_y": 180, "coarse_score": 0.20585612952709198, "coarse_margin": 0.01570381224155426, "fine_score": 0.23386900126934052, "fine_margin": 0.23386900126934052, "orb_good_matches": 15}]}
+{"frame_name": "frame_000161.jpg", "detected_undefined_objects": [{"object_id": 2, "reference_name": "Referans_Nesne_03.JPG", "variant_name": "zoom_in", "top_left_x": 0, "top_left_y": 0, "bottom_right_x": 320, "bottom_right_y": 180, "coarse_score": 0.3876693844795227, "coarse_margin": 0.01209932565689087, "fine_score": 0.3318537473678589, "fine_margin": 0.3318537473678589, "orb_good_matches": 9}]}
+{"frame_name": "frame_000162.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000163.jpg", "detected_undefined_objects": [{"object_id": 4, "reference_name": "Referans_Nesne_05.jpg", "variant_name": "perspective_left_soft", "top_left_x": 0, "top_left_y": 0, "bottom_right_x": 320, "bottom_right_y": 180, "coarse_score": 0.42247751355171204, "coarse_margin": 0.016509175300598145, "fine_score": 0.37915337085723877, "fine_margin": 0.37915337085723877, "orb_good_matches": 11}]}
+{"frame_name": "frame_000164.jpg", "detected_undefined_objects": [{"object_id": 2, "reference_name": "Referans_Nesne_03.JPG", "variant_name": "zoom_in", "top_left_x": 0, "top_left_y": 0, "bottom_right_x": 320, "bottom_right_y": 180, "coarse_score": 0.42794492840766907, "coarse_margin": 0.014187157154083252, "fine_score": 0.3684123754501343, "fine_margin": 0.3684123754501343, "orb_good_matches": 10}]}
+{"frame_name": "frame_000165.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000166.jpg", "detected_undefined_objects": [{"object_id": 2, "reference_name": "Referans_Nesne_03.JPG", "variant_name": "zoom_in", "top_left_x": 0, "top_left_y": 0, "bottom_right_x": 320, "bottom_right_y": 180, "coarse_score": 0.4272817075252533, "coarse_margin": 0.01275491714477539, "fine_score": 0.3674970865249634, "fine_margin": 0.3674970865249634, "orb_good_matches": 10}]}
+{"frame_name": "frame_000167.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000168.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000169.jpg", "detected_undefined_objects": [{"object_id": 4, "reference_name": "Referans_Nesne_05.jpg", "variant_name": "perspective_left_soft", "top_left_x": 0, "top_left_y": 0, "bottom_right_x": 320, "bottom_right_y": 180, "coarse_score": 0.4329276382923126, "coarse_margin": 0.012094229459762573, "fine_score": 0.4057927131652832, "fine_margin": 0.4057927131652832, "orb_good_matches": 11}]}
+{"frame_name": "frame_000170.jpg", "detected_undefined_objects": [{"object_id": 4, "reference_name": "Referans_Nesne_05.jpg", "variant_name": "perspective_left_soft", "top_left_x": 0, "top_left_y": 0, "bottom_right_x": 320, "bottom_right_y": 180, "coarse_score": 0.42188555002212524, "coarse_margin": 0.011320292949676514, "fine_score": 0.4269901514053345, "fine_margin": 0.4269901514053345, "orb_good_matches": 12}]}
+{"frame_name": "frame_000171.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000172.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000173.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000174.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000175.jpg", "detected_undefined_objects": [{"object_id": 4, "reference_name": "Referans_Nesne_05.jpg", "variant_name": "perspective_left_soft", "top_left_x": 0, "top_left_y": 180, "bottom_right_x": 320, "bottom_right_y": 360, "coarse_score": 0.4198632836341858, "coarse_margin": 0.011089503765106201, "fine_score": 0.41177117824554443, "fine_margin": 0.41177117824554443, "orb_good_matches": 8}]}
+{"frame_name": "frame_000176.jpg", "detected_undefined_objects": [{"object_id": 4, "reference_name": "Referans_Nesne_05.jpg", "variant_name": "perspective_left_soft", "top_left_x": 0, "top_left_y": 180, "bottom_right_x": 320, "bottom_right_y": 360, "coarse_score": 0.3971919119358063, "coarse_margin": 0.014881879091262817, "fine_score": 0.43468979001045227, "fine_margin": 0.43468979001045227, "orb_good_matches": 8}]}
+{"frame_name": "frame_000177.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000178.jpg", "detected_undefined_objects": [{"object_id": 2, "reference_name": "Referans_Nesne_03.JPG", "variant_name": "zoom_in", "top_left_x": 0, "top_left_y": 180, "bottom_right_x": 320, "bottom_right_y": 360, "coarse_score": 0.4184315800666809, "coarse_margin": 0.012328743934631348, "fine_score": 0.37557491660118103, "fine_margin": 0.37557491660118103, "orb_good_matches": 10}]}
+{"frame_name": "frame_000179.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000180.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000181.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000182.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000183.jpg", "detected_undefined_objects": [{"object_id": 4, "reference_name": "Referans_Nesne_05.jpg", "variant_name": "perspective_left_soft", "top_left_x": 0, "top_left_y": 180, "bottom_right_x": 320, "bottom_right_y": 360, "coarse_score": 0.43464982509613037, "coarse_margin": 0.013031870126724243, "fine_score": 0.3509066104888916, "fine_margin": 0.3509066104888916, "orb_good_matches": 11}]}
+{"frame_name": "frame_000184.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000185.jpg", "detected_undefined_objects": [{"object_id": 2, "reference_name": "Referans_Nesne_03.JPG", "variant_name": "zoom_in", "top_left_x": 0, "top_left_y": 360, "bottom_right_x": 320, "bottom_right_y": 540, "coarse_score": 0.41238659620285034, "coarse_margin": 0.017207443714141846, "fine_score": 0.3306080996990204, "fine_margin": 0.3306080996990204, "orb_good_matches": 9}]}
+{"frame_name": "frame_000186.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000187.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000188.jpg", "detected_undefined_objects": [{"object_id": 2, "reference_name": "Referans_Nesne_03.JPG", "variant_name": "zoom_in", "top_left_x": 0, "top_left_y": 360, "bottom_right_x": 320, "bottom_right_y": 540, "coarse_score": 0.4362349212169647, "coarse_margin": 0.03381389379501343, "fine_score": 0.3490545153617859, "fine_margin": 0.3490545153617859, "orb_good_matches": 10}]}
+{"frame_name": "frame_000189.jpg", "detected_undefined_objects": [{"object_id": 2, "reference_name": "Referans_Nesne_03.JPG", "variant_name": "zoom_in", "top_left_x": 0, "top_left_y": 360, "bottom_right_x": 320, "bottom_right_y": 540, "coarse_score": 0.4189455509185791, "coarse_margin": 0.021060913801193237, "fine_score": 0.34164100885391235, "fine_margin": 0.34164100885391235, "orb_good_matches": 8}]}
+{"frame_name": "frame_000190.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000191.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000192.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000193.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000194.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000195.jpg", "detected_undefined_objects": [{"object_id": 4, "reference_name": "Referans_Nesne_05.jpg", "variant_name": "zoom_in", "top_left_x": 0, "top_left_y": 360, "bottom_right_x": 320, "bottom_right_y": 540, "coarse_score": 0.33700281381607056, "coarse_margin": 0.020174890756607056, "fine_score": 0.34432294964790344, "fine_margin": 0.34432294964790344, "orb_good_matches": 10}]}
+{"frame_name": "frame_000196.jpg", "detected_undefined_objects": [{"object_id": 4, "reference_name": "Referans_Nesne_05.jpg", "variant_name": "zoom_in", "top_left_x": 0, "top_left_y": 360, "bottom_right_x": 320, "bottom_right_y": 540, "coarse_score": 0.306295782327652, "coarse_margin": 0.023154854774475098, "fine_score": 0.25696617364883423, "fine_margin": 0.25696617364883423, "orb_good_matches": 8}]}
+{"frame_name": "frame_000197.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000198.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000199.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000200.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000201.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000202.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000203.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000204.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000205.jpg", "detected_undefined_objects": [{"object_id": 4, "reference_name": "Referans_Nesne_05.jpg", "variant_name": "zoom_in", "top_left_x": 0, "top_left_y": 0, "bottom_right_x": 320, "bottom_right_y": 180, "coarse_score": 0.1897338181734085, "coarse_margin": 0.014266535639762878, "fine_score": 0.17615510523319244, "fine_margin": 0.17615510523319244, "orb_good_matches": 13}]}
+{"frame_name": "frame_000206.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000207.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000208.jpg", "detected_undefined_objects": [{"object_id": 2, "reference_name": "Referans_Nesne_03.JPG", "variant_name": "zoom_in", "top_left_x": 0, "top_left_y": 0, "bottom_right_x": 320, "bottom_right_y": 180, "coarse_score": 0.19863268733024597, "coarse_margin": 0.031329140067100525, "fine_score": 0.20382514595985413, "fine_margin": 0.20382514595985413, "orb_good_matches": 8}]}
+{"frame_name": "frame_000209.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000210.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000211.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000212.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000213.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000214.jpg", "detected_undefined_objects": [{"object_id": 4, "reference_name": "Referans_Nesne_05.jpg", "variant_name": "zoom_in", "top_left_x": 0, "top_left_y": 180, "bottom_right_x": 320, "bottom_right_y": 360, "coarse_score": 0.22595489025115967, "coarse_margin": 0.0155373215675354, "fine_score": 0.16844746470451355, "fine_margin": 0.16844746470451355, "orb_good_matches": 9}]}
+{"frame_name": "frame_000215.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000216.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000217.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000218.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000219.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000220.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000221.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000222.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000223.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000224.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000225.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000226.jpg", "detected_undefined_objects": [{"object_id": 2, "reference_name": "Referans_Nesne_03.JPG", "variant_name": "zoom_in", "top_left_x": 0, "top_left_y": 360, "bottom_right_x": 320, "bottom_right_y": 540, "coarse_score": 0.21617412567138672, "coarse_margin": 0.05345676839351654, "fine_score": 0.18779507279396057, "fine_margin": 0.18779507279396057, "orb_good_matches": 9}]}
+{"frame_name": "frame_000227.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000228.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000229.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000230.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000231.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000232.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000233.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000234.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000235.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000236.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000237.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000238.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000239.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000240.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000241.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000242.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000243.jpg", "detected_undefined_objects": [{"object_id": 5, "reference_name": "Referans_Nesne_06.jpg", "variant_name": "center_crop", "top_left_x": 320, "top_left_y": 0, "bottom_right_x": 640, "bottom_right_y": 180, "coarse_score": 0.29986703395843506, "coarse_margin": 0.021510571241378784, "fine_score": 0.27346867322921753, "fine_margin": 0.27346867322921753, "orb_good_matches": 10}]}
+{"frame_name": "frame_000244.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000245.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000246.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000247.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000248.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000249.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000250.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000251.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000252.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000253.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000254.jpg", "detected_undefined_objects": [{"object_id": 3, "reference_name": "Referans_Nesne_04.JPG", "variant_name": "blur_light", "top_left_x": 640, "top_left_y": 180, "bottom_right_x": 960, "bottom_right_y": 360, "coarse_score": 0.27293330430984497, "coarse_margin": 0.013391047716140747, "fine_score": 0.2133033722639084, "fine_margin": 0.2133033722639084, "orb_good_matches": 11}]}
+{"frame_name": "frame_000255.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000256.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000257.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000258.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000259.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000260.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000261.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000262.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000263.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000264.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000265.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000266.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000267.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000268.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000269.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000270.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000271.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000272.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000273.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000274.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000275.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000276.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000277.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000278.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000279.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000280.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000281.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000282.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000283.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000284.jpg", "detected_undefined_objects": [{"object_id": 5, "reference_name": "Referans_Nesne_06.jpg", "variant_name": "center_crop", "top_left_x": 0, "top_left_y": 0, "bottom_right_x": 320, "bottom_right_y": 180, "coarse_score": 0.2740522623062134, "coarse_margin": 0.019266784191131592, "fine_score": 0.2789532244205475, "fine_margin": 0.2789532244205475, "orb_good_matches": 11}]}
+{"frame_name": "frame_000285.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000286.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000287.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000288.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000289.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000290.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000291.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000292.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000293.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000294.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000295.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000296.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000297.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000298.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000299.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000300.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000301.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000302.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000303.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000304.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000305.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000306.jpg", "detected_undefined_objects": [{"object_id": 5, "reference_name": "Referans_Nesne_06.jpg", "variant_name": "center_crop", "top_left_x": 0, "top_left_y": 180, "bottom_right_x": 320, "bottom_right_y": 360, "coarse_score": 0.2529497444629669, "coarse_margin": 0.017723292112350464, "fine_score": 0.27037346363067627, "fine_margin": 0.27037346363067627, "orb_good_matches": 10}]}
+{"frame_name": "frame_000307.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000308.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000309.jpg", "detected_undefined_objects": [{"object_id": 2, "reference_name": "Referans_Nesne_03.JPG", "variant_name": "zoom_in", "top_left_x": 640, "top_left_y": 0, "bottom_right_x": 960, "bottom_right_y": 180, "coarse_score": 0.2216133028268814, "coarse_margin": 0.055743321776390076, "fine_score": 0.1736510694026947, "fine_margin": 0.1736510694026947, "orb_good_matches": 8}]}
+{"frame_name": "frame_000310.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000311.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000312.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000313.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000314.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000315.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000316.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000317.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000318.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000319.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000320.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000321.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000322.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000323.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000324.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000325.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000326.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000327.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000328.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000329.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000330.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000331.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000332.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000333.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000334.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000335.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000336.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000337.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000338.jpg", "detected_undefined_objects": [{"object_id": 4, "reference_name": "Referans_Nesne_05.jpg", "variant_name": "zoom_in", "top_left_x": 320, "top_left_y": 0, "bottom_right_x": 640, "bottom_right_y": 180, "coarse_score": 0.19666625559329987, "coarse_margin": 0.024914920330047607, "fine_score": 0.1884402334690094, "fine_margin": 0.1884402334690094, "orb_good_matches": 8}]}
+{"frame_name": "frame_000339.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000340.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000341.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000342.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000343.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000344.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000345.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000346.jpg", "detected_undefined_objects": [{"object_id": 3, "reference_name": "Referans_Nesne_04.JPG", "variant_name": "blur_light", "top_left_x": 0, "top_left_y": 180, "bottom_right_x": 320, "bottom_right_y": 360, "coarse_score": 0.2848271429538727, "coarse_margin": 0.011187881231307983, "fine_score": 0.26581913232803345, "fine_margin": 0.26581913232803345, "orb_good_matches": 9}]}
+{"frame_name": "frame_000347.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000348.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000349.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000350.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000351.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000352.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000353.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000354.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000355.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000356.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000357.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000358.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000359.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000360.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000361.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000362.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000363.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000364.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000365.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000366.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000367.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000368.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000369.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000370.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000371.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000372.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000373.jpg", "detected_undefined_objects": [{"object_id": 2, "reference_name": "Referans_Nesne_03.JPG", "variant_name": "zoom_in", "top_left_x": 320, "top_left_y": 0, "bottom_right_x": 640, "bottom_right_y": 180, "coarse_score": 0.1734994649887085, "coarse_margin": 0.0535489022731781, "fine_score": 0.16322530806064606, "fine_margin": 0.16322530806064606, "orb_good_matches": 10}]}
+{"frame_name": "frame_000374.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000375.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000376.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000377.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000378.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000379.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000380.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000381.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000382.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000383.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000384.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000385.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000386.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000387.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000388.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000389.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000390.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000391.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000392.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000393.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000394.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000395.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000396.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000397.jpg", "detected_undefined_objects": [{"object_id": 2, "reference_name": "Referans_Nesne_03.JPG", "variant_name": "zoom_in", "top_left_x": 320, "top_left_y": 360, "bottom_right_x": 640, "bottom_right_y": 540, "coarse_score": 0.18016983568668365, "coarse_margin": 0.03442937135696411, "fine_score": 0.1650209128856659, "fine_margin": 0.1650209128856659, "orb_good_matches": 8}]}
+{"frame_name": "frame_000398.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000399.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000400.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000401.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000402.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000403.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000404.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000405.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000406.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000407.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000408.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000409.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000410.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000411.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000412.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000413.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000414.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000415.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000416.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000417.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000418.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000419.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000420.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000421.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000422.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000423.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000424.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000425.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000426.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000427.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000428.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000429.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000430.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000431.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000432.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000433.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000434.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000435.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000436.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000437.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000438.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000439.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000440.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000441.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000442.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000443.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000444.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000445.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000446.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000447.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000448.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000449.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000450.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000451.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000452.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000453.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000454.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000455.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000456.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000457.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000458.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000459.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000460.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000461.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000462.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000463.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000464.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000465.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000466.jpg", "detected_undefined_objects": []}
+{"frame_name": "frame_000467.jpg", "detected_undefined_objects": []}

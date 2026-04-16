@@ -12,14 +12,14 @@ from utils import (
     orb_match_score
 )
 
-BASE_DIR = "/Users/veranur/Desktop/task_3"
+BASE_DIR = "/Users/veranur/Documents/hyz_task_3/HYZ_Task_3/task_3"
 
 FRAMES_DIR = os.path.join(BASE_DIR, "data", "frames")
 REF_DIR = os.path.join(BASE_DIR, "data", "reference")   # senin mevcut klasör yapın buysa böyle kalsın
-REF_BANK_PATH = os.path.join(BASE_DIR, "outputs", "features", "reference_bank_aug.pt")
+REF_BANK_PATH = os.path.join(BASE_DIR, "outputs", "features", "reference_bank_aug_v2.pt")
 
-CSV_OUT = os.path.join(BASE_DIR, "outputs", "logs", "task3_frame_results_aug_orb.csv")
-JSON_OUT = os.path.join(BASE_DIR, "outputs", "json", "task3_frame_results_aug_orb.jsonl")
+CSV_OUT = os.path.join(BASE_DIR, "outputs", "logs", "task3_frame_results_aug_orb_v2.csv")
+JSON_OUT = os.path.join(BASE_DIR, "outputs", "json", "task3_frame_results_aug_orb_v2.jsonl")
 
 os.makedirs(os.path.join(BASE_DIR, "outputs", "logs"), exist_ok=True)
 os.makedirs(os.path.join(BASE_DIR, "outputs", "json"), exist_ok=True)
